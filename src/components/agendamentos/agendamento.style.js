@@ -17,10 +17,47 @@ export const styles = {
         color: Colors.black,
         marginBottom: 2,
     },
+
     especialidade:{
         fontSize: Font_Syze.sm,
         color: Colors.blue,
         marginBottom: 4,
     },
+
+    icon:{
+        width: 25,
+        height: 25,
+        marginRigth: 5,
+    },
+
+    data:{
+        fontSize: Font_Syze.sm,
+        color: Colors.black,
+        marginTop: 3,
+    },
+
+    hora:{
+        fontSize: Font_Syze.sm,
+        color: Colors.blue,
+        marginTop: 3,
+    },
+    
+    agenda:{
+        flexDirection: "row",
+
+    },
+
+    containerAgenda:{
+        flex: 1,
+
+    },
+
+    containerBotao:{
+        marginTop: 5
+    },
+
+    container:{
+        flexDirection: "row",
+    }
 
 }
