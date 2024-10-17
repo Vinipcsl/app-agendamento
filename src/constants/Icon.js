@@ -6,10 +6,11 @@ import female from "../assets/female.png";
 import clock from "../assets/clock.png";
 import Golden2 from "../assets/Golden2.png";
 import male from "../assets/male.png";
+import GoldenHome from "../assets/GoldenHome.png";
 
 
 
 export default {
     home, calendar, profile,
-    logo, male, female, clock, Golden2
+    logo, male, female, clock, Golden2, GoldenHome
 }
