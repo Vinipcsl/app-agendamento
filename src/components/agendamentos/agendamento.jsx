@@ -26,7 +26,7 @@ export default function Agendamento(props){
             </View>
 
             <View style={styles.containerBotao}>
-            <Button text= "Cancelar Reserva"/>
+            <Button text= "Cancelar Reserva" theme = "btnVermelho"/>
 
             </View>
 
