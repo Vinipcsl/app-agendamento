@@ -1,4 +1,3 @@
-import { setStatusBarBackgroundColor } from "expo-status-bar";
 import { Colors, Font_Syze } from "../../constants/theme";
 
 export const styles = {

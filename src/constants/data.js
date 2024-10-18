@@ -52,22 +52,42 @@ export const agendamentos = [
 export const servicos =[
     {
         id_sevico: 1,
-        descricao: "Limpeza de pele",
-        preco: 120,
+        descricao: "Limpeza de pele personalizada",
+        preco: 140,
     },
     {
         id_sevico: 2,
-        descricao: "Massagem relaxante",
-        preco: 150,
+        descricao: "Massagem relaxante manual ",
+        preco: 65,
     },
     {
         id_sevico: 3,
-        descricao: "Rádio frequência",
-        preco: 180,
+        descricao: "Massagem relaxante com pedras quentes",
+        preco: 95,
     },
     {
         id_sevico: 4,
-        descricao: "Drenagem",
-        preco: 220,
+        descricao: "Drenagem Linfática",
+        preco: 65,
+    },
+    {
+        id_sevico: 5,
+        descricao: "Vibrocell ou endodermo com massagem modeladora",
+        preco: 55,
+    },
+    {
+        id_sevico: 6,
+        descricao: "Rádiofrequência facial",
+        preco: 85,
+    },
+    {
+        id_sevico: 7,
+        descricao: "Rádiofrequência corporal",
+        preco: 75,
+    },
+    {
+        id_sevico: 8,
+        descricao: "Hidratação facial",
+        preco: 80,
     },
 ];
